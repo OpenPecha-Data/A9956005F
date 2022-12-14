@@ -1,0 +1,20 @@
+id: A9956005F
+title: Toh_729-Dh%C4%81ra%E1%B9%87%C4%AB_of_T%C4%81r%C4%81-v2
+type: translation
+pechas:
+- I64656C57
+- IC46CB148
+source_metadata:
+  creationtool: InterText
+  creationtoolversion: '1.0'
+  datatype: PlainText
+  segtype: block
+  adminlang: en-us
+  srclang: bo
+  o-tmf: XML aligned text
+  eft-text-id: UT22084-094-006
+  eft-text-version: 1.1.4 2021
+  title: Toh_729-Dh%C4%81ra%E1%B9%87%C4%AB_of_T%C4%81r%C4%81-v2
+alignment_to_base:
+  I64656C57/D01D: D9ED
+  IC46CB148/4198: D9ED

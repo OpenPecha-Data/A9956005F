@@ -1,0 +1,21 @@
+segment_sources:
+  I64656C57:
+    type: translation
+    relation: source
+    lang: bo
+    base: D01D
+  IC46CB148:
+    type: translation
+    relation: target
+    lang: en-us
+    base: '4198'
+segment_pairs:
+  086574ab31d547aa93a329eaa9ccfb88:
+    I64656C57: 35e73ec45ec84b6599e47a182ee94668
+    IC46CB148: 8362441e21024ccfaf2f66926f31e662
+  29918ae55fe94d019c226debd7f1b070:
+    I64656C57: 5bbdba65d76b4da6b87f4c05e0436c23
+    IC46CB148: 352827ab7d0f47be9a027536cee1f52f
+  d56fcfd77ad44d92b42c6c87cec64009:
+    I64656C57: 31dc2d2191de42a5b7b6b4f17101710c
+    IC46CB148: 0ddda2fe2c5a41f48386d1e99090fc7e
